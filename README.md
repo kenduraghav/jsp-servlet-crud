@@ -22,3 +22,4 @@ To run the application right click the project `Select Run As -> Run on Server`.
 
 Open your browser and type [http://localhost:8080/TestServlet/](http://localhost:8080/TestServlet/)
 
+For more info on JSP-Servlet example, you can refer to this link [CodeJava.net] (https://www.codejava.net/coding/jsp-servlet-jdbc-mysql-create-read-update-delete-crud-example).
